@@ -15,9 +15,9 @@ citations-hover: false
 
 @cattelanModelsPairedComparison2012
 
-    - Summary: In this article Cattelan reviews different statistical models used. for paired comparison data. paired comparison data is data based on one-on-one matchups. This article provides a broad overview of how head-to-head competition data can be analyzed, and also talks about some common models such as the Bradley-Terry model.
+    - Summary: In this article Cattelan reviews different statistical models used for paired comparison data. Paired comparison data is data based on one-on-one matchups. This article provides a broad overview of how head-to-head competition data can be analyzed, and also talks about some common models such as the Bradley-Terry model.
 
-    - Reliability and relationship to the topic: This article was published in the journal Statistical Science which is very respected. It summarizes many well established studies in the field. The Annueal Review article has a lot of the same ideas discussed in this article. So, it shows that this paper is closely related to the overall topic.
+    - Reliability and relationship to the topic: This article was published in the journal Statistical Science which is very respected. It summarizes many well established studies in the field. The Annual Review article has a lot of the same ideas discussed in this article. So, it shows that this paper is closely related to the overall topic.
 
     -   Missing pieces
       -   thing 1: I don't have enough statistical modeling experience to accurately use the advanced estimation methods.
@@ -26,7 +26,7 @@ citations-hover: false
 
 @plackettAnalysisPermutations1975
 
-    - Summary: Plackett looks at how to model rankings of competitors using probability. He does it by not only focusing on who wins or loses, and actually assigns each competitor a strength value that helps predict the order in which they will finish. This idea later became the Plackett-Luce model, and it is still usde today in ranking and rating systems.
+    - Summary: Plackett looks at how to model rankings of competitors using probability. He does it by not only focusing on who wins or loses, and actually assigns each competitor a strength value that helps predict the order in which they will finish. This idea later became the Plackett-Luce model, and it is still used today in ranking and rating systems.
 
     - Reliability and relationship to the topic: The article was actually published in the journal of the Royal Statistical Society, which is very well known. The model that is in this paper is still also widely used. Due to this, thie source is both reliable and very important to the topuc of head-to-head competition models.
 
