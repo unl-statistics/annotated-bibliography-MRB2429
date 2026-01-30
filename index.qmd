@@ -31,7 +31,7 @@ citations-hover: false
     - Reliability and relationship to the topic: The article was actually published in the journal of the Royal Statistical Society, which is very well known. The model that is in this paper is still also widely used. Due to this, thie source is both reliable and very important to the topuc of head-to-head competition models.
 
     - Missing pieces
-      - thing 1: Personally I would need a better understanding of how probability is used to model rankings
+      - thing 1: Personally I would need a better understanding of how probability is used to model rankings.
 
       - thing 2: I honestly would need more of a statistics background to understand the difficult math behind how the strength values are predicted.
 
