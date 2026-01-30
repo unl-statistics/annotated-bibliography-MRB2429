@@ -9,18 +9,29 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@glickmanModelsRatingSystems2025
 
 # References
 
-@ref1
+@cattelanModelsPairedComparison2012
 
-- Summary
+    - Summary: In this article Cattelan reviews different statistical models used. for paired comparison data. paired comparison data is data based on one-on-one matchups. This article provides a broad overview of how head-to-head competition data can be analyzed, and also talks about some common models such as the Bradley-Terry model.
 
-- Reliability and relationship to the topic
+    - Reliability and relationship to the topic: This article was published in the journal Statistical Science which is very respected. It summarizes many well established studies in the field. The Annueal Review article has a lot of the same ideas discussed in this article. So, it shows that this paper is closely related to the overall topic.
 
-- Missing pieces
-    - thing 1
+    -   Missing pieces
+      -   thing 1: I don't have enough statistical modeling experience to accurately use the advanced estimation methods.
 
-    - thing 2
+      -   thing 2: The article only really talks about ideal matches, so I'm curious about ties or if a match is incomplete.
+
+@plackettAnalysisPermutations1975
+
+    - Summary: Plackett looks at how to model rankings of competitors using probability. He does it by not only focusing on who wins or loses, and actually assigns each competitor a strength value that helps predict the order in which they will finish. This idea later became the Plackett-Luce model, and it is still usde today in ranking and rating systems.
+
+    - Reliability and relationship to the topic: The article was actually published in the journal of the Royal Statistical Society, which is very well known. The model that is in this paper is still also widely used. Due to this, thie source is both reliable and very important to the topuc of head-to-head competition models.
+
+    - Missing pieces
+      - thing 1: Personally I would need a better understanding of how probability is used to model rankings
+
+      - thing 2: I honestly would need more of a statistics background to understand the difficult math behind how the strength values are predicted.
+
