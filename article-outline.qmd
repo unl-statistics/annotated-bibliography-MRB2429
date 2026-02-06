@@ -1,0 +1,105 @@
+---
+title: "Reverse Outline – Models and Rating Systems for Head-to-Head Competition"
+author: "Max Buettenback"
+format: html
+---
+
+## Overall Purpose
+- Reviews statistical models that are used to help evaluate and rank competitors in head-to-head competition.
+- Explains how rating systems were developed from foundational probability models.
+- Discusses applications of these rating systems and also areas for future research.
+
+---
+
+## Introduction
+- Explains the importance of ranking competitors in competitve settings.
+- Discusses the challenges in accurately measuring competitor skill.
+- Provides different historical contex for how rating system was developed.
+- Outlines the structure and goals of the article.
+
+---
+
+## Paired Comparison Models
+
+### Bradley-Terry Model
+- Introduces probability-based model for comparing competitor strengths.
+- Defines how winning probability relates to skill parameters.
+- Describes interpretation of model parameters.
+
+### Thurstone-Mosteller Model
+- Presents alternative paired comparison model.
+- Describes statistical differences compared to the Bradley-Terry model.
+- Advances the understanding of how competition can be modeled.
+
+### Model Estimation and Properties
+- Explains estimation techniques.
+- Discusses different assumptions and limitations.
+- Shows how rankings are generated.
+
+---
+
+## Time-Varying Paired Comparison Models
+
+### Dynamic Skill Models
+- Introduces models allowing competitor ability to change over time.
+- Explains need for time-sensitive performance evaluation.
+- Extends earlier modeling approaches.
+
+### State-Space Modeling
+- Introduces methods that track evolving skill levels.
+- Explains use of probability to model performance change.
+- Improves prediction accuracy for future competitions.
+
+---
+
+## Dynamic Rating Systems
+
+### Elo Rating System
+- Introduces Elo system and also historical chess applications.
+- Describes rating changes and updating after matches.
+- Explains advantages of the simplicity and adaptability of system.
+
+### Glicko Rating System
+- Extends on Elo by adding rating uncertainty.
+- Improves accuracy of estimating skill.
+- Provides more flexible rating updating.
+
+---
+
+## Team and Multiplayer Competition Models
+
+### Team Rating models
+- Discusses challenges in evaluating team performance.
+- Describes methods for combining individual player ratings.
+- Addresses interaction effects between team members.
+
+### Multiplayer Competition Models
+- Extends the rating system to go beyond two-player competitions.
+- Explores increased complexity.
+- Discusses ranking methods for multi-competitor events.
+
+---
+
+## Applications, Limitations, Future Directions
+
+### Real-World Uses
+- Sports ranking systems.
+- Esports and gaming.
+- Tournament seedings and also predictions.
+
+### Limitations
+- Guessing how model works.
+- Data imbalance issues.
+- Getting model to guess right all the time.
+
+### Future Work
+- Suggests more development of more flexible models.
+- Encourages improvement in efficiency.
+- Identifies need for broader application and evaluation.
+
+---
+
+## Gaps or Missing Areas
+- Limited discussion of ethical and fairness concerns in the rating systems.
+- Not many real-world case study examples that are detailed.
+- Few discussion of how rankings can effect peoples thoughts and behavior.
