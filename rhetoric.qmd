@@ -1,0 +1,23 @@
+---
+title: "Rhetorical Analysis of Annual Review Article"
+author: "Max Buettenback"
+format: html
+bibliography: references.bib
+---
+
+## Introduction
+
+The article *Models and Rating Systems for Head-to-Head Competition* by Glickman and Jones (2025) talks about statistical approaches to help predict outcomes in different competitive settings. For example, sports leagues and online gaming. The authors present to us both classical models, like the Bradley-Terry model, and modern rating systems, like Elo and Glicko. They emphasize their ability to account for time-varying player strengths. The main aim is to provide a diligent yet practical framework for understanding and applying these models in real-world competitions.
+
+## Rhetorical Analysis
+
+Glickman and Jones structure their argument in a very logical and also reader-friendly way. They start by introducing to us the problem and explain why accurate modeling of head-to-head competition matters.This instantly establishes to us the context and engages the audience into their article. The authors support their claims with clear explanations, models derived through step-by-step calculations, and examples drawn from real-world datasets such as NBA games and online tournaments. These examples help readers see the practical relevance of abstract statistical models and make the argument way more convincing.
+
+The authors also carefully explain the assumptions behind each model, discuss the limitations of the models, and compare different approaches side by side. This meticulous and thorough treatment of explaining really strengthens their argument by thinking and anticipating potential objections and addressing them before and transparently. There are many tables and figures used throughout the article and they are used very effectively. They help summarize complex information, and this allowed us readers to visualize and grasp patterns and results without being super overwhelmed by all the technical details.The flow of the article from problem statement to methodology, results and discussion guides the reader very well through the argument. This helps contribute to the persuasiveness of the article.
+
+In evaluating the effectiveness of the article, the argument is very compelling because evidence and explanation are very closely linked. The examples are straight up and the reasoning is very clear. Also the presentation of the article balances technical depth with being able to understand easily. The authors also do not rely completely on all the mathematics and try to help connect findings to contexts that would be familiar to the audience. This helps greatly for the readers in understanding why the models matter in practice. Overall, the rhetorical choices the authors made really allow this article to communicate complex statistical ideas very effectively.
+
+---
+
+## References
+@glickmanModelsRatingSystems2025
